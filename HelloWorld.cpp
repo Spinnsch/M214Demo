@@ -5,6 +5,6 @@ int main() {
     //Hello World Ausgabe
     cout << "Hello, World!" << endl;
     //Neue zusätzliche Ausgabe des Schülers zwischen den "".
-    cout << "" << endl;
+    cout << "Hello, World2!" << endl;
     return 0;
 }
